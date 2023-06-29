@@ -1,2 +1,2 @@
 # TOP-landingpage_css
-the odin's project landin page project
+the odin's project landing page project
